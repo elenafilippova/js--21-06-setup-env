@@ -1,0 +1,19 @@
+{
+  "name": "take-js--20-06-setup-env",
+  "version": "1.0.0",
+  "description": "test npm-package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elenafilippova/js--21-06-setup-env.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elenafilippova/js--21-06-setup-env/issues"
+  },
+  "homepage": "https://github.com/elenafilippova/js--21-06-setup-env#readme"
+}
